@@ -20,7 +20,7 @@ revealjs:
 
 ![Restaurant Image](assets/img/restaurant_sign.jpg)
 
-### New York Restaurant Inspections
+#### New York Restaurant Inspections
 
 .fragment Know the food safety risks of a restaurant.
 
@@ -44,7 +44,7 @@ revealjs:
 
 ## Picture It
 
-.fragment ![Sample Image](assets/img/sample_output.jpg)
+![Sample Image](assets/img/sample_output.JPG)
 
 ---
 
