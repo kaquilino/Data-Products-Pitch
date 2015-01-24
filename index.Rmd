@@ -44,7 +44,7 @@ revealjs:
 
 ## Picture It
 
-.fragment ![Sample Image](assets/img/sample_output.jpg)
+.fragment ![Sample Image](assets/img/sample_output.JPG)
 
 ---
 
